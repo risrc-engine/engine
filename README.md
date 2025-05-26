@@ -2,7 +2,7 @@
 
 # Ridge Source
 
-Ridge Source is a game engine based off of Source Engine (Technically Source SDK 2013) that is made to be more modern and easier to use. The engine is completely FOSS (Free and Open-Source Software) and it can be used for alot of 3D Games. [More Info](docs/index.md)
+Ridge Source is a game engine that is made to be a easy to use, source 1/2 alternative. For more info on what it does, go to [Documents](docs/index.md)
 
 # NOTE
 
