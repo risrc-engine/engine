@@ -1,1 +1,0 @@
-# Ridge Source Tutorial
